@@ -12,6 +12,6 @@
 	<gap:splash src="splash.png" />
 	
 	<!--<gap:splash src="assets/img/logo.svg" />-->
-	<!--<gap:plugin name="nl.x-services.plugins.toast" />-->
+	<gap:plugin name="nl.x-services.plugins.toast" />
 
  </widget>
