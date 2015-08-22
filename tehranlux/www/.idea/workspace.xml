@@ -38,11 +38,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51355207" vertical-offset="150" max-vertical-offset="11934">
-              <caret line="62" column="74" selection-start-line="62" selection-start-column="74" selection-end-line="62" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.5378031" vertical-offset="150" max-vertical-offset="11951">
+              <caret line="63" column="152" selection-start-line="63" selection-start-column="152" selection-end-line="63" selection-end-column="152" />
               <folding>
                 <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#6048#14137#0" expanded="false" />
+                <element signature="e#6201#14290#0" expanded="false" />
                 <element signature="n#script#7;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#8;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#9;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -250,7 +250,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6048#14137#0" expanded="false" />
+            <element signature="e#6201#14290#0" expanded="false" />
             <element signature="n#script#7;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#8;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#9;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -283,7 +283,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6048#14137#0" expanded="false" />
+            <element signature="e#6201#14290#0" expanded="false" />
             <element signature="n#script#7;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#8;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#9;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -405,11 +405,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51355207" vertical-offset="150" max-vertical-offset="11934">
-          <caret line="62" column="74" selection-start-line="62" selection-start-column="74" selection-end-line="62" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.5378031" vertical-offset="150" max-vertical-offset="11951">
+          <caret line="63" column="152" selection-start-line="63" selection-start-column="152" selection-end-line="63" selection-end-column="152" />
           <folding>
             <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6048#14137#0" expanded="false" />
+            <element signature="e#6201#14290#0" expanded="false" />
             <element signature="n#script#7;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#8;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#9;n#head#0;n#html#0;n#!!top" expanded="false" />

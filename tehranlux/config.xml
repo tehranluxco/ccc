@@ -10,42 +10,30 @@
     <preference name="phonegap-version" value="3.5.0" />
     <preference name="permissions" value="none" />
     <feature name="http://api.phonegap.com/1.0/network" />
-	<platform name="android">
-    <icon src="icon.png" />
-		<preference name="android-minSdkVersion" value="14" />
-		<icon density="ldpi" src="res/icon/android/icon-36-ldpi.png" />
-		<icon density="mdpi" src="res/icon/android/icon-48-mdpi.png" />
-		<icon density="hdpi" src="res/icon/android/icon-72-hdpi.png" />
-		<icon density="xhdpi" src="res/icon/android/icon-96-xhdpi.png" />
-		<splash  qualifier="port-ldpi" src="res/screen/android/screen-ldpi-portrait.png" />
-		<splash  qualifier="port-mdpi" src="res/screen/android/screen-mdpi-portrait.png" />
-		<splash  qualifier="port-hdpi" src="res/screen/android/screen-hdpi-portrait.png" />
-		<splash  qualifier="port-xhdpi" src="res/screen/android/screen-xhdpi-portrait.png" />
-	</platform>
-	
-	<platform name="ios">
-		<icon height="57" src="res/icon/ios/icon-57.png" width="57" />
-		<icon height="72" src="res/icon/ios/icon-72.png" width="72" />
-		<icon height="114" src="res/icon/ios/icon-57-2x.png" width="114" />
-		<icon height="144" src="res/icon/ios/icon-72-2x.png" width="144" />
-		<splash height="480" src="res/screen/ios/screen-iphone-portrait.png" width="320" />
-		<splash height="960" src="res/screen/ios/screen-iphone-portrait-2x.png" width="640" />
-		<splash height="1136" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" />
-		<splash height="1024" src="res/screen/ios/screen-ipad-portrait.png" width="768" />
-		<splash height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
-	</platform>
-
-   <!-- <icon gap:platform="blackberry" src="res/icon/blackberry/icon-80.png" />
-    <icon gap:platform="blackberry" gap:state="hover" src="res/icon/blackberry/icon-80.png" />
-    <icon gap:platform="webos" src="res/icon/webos/icon-64.png" />
-    <icon gap:platform="winphone" src="res/icon/windows-phone/icon-48.png" />
-    <icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173.png" />
-
-    <gap:splash gap:platform="blackberry" src="res/screen/blackberry/screen-225.png" />
-    <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />-->
-	
-	<gap:plugin name="nl.x-services.plugins.toast" source="plugins.cordova.io" />
-	
+    <platform name="android">
+        <icon src="icon.png" />
+        <preference name="android-minSdkVersion" value="14" />
+        <icon density="ldpi" src="res/icon/android/icon-36-ldpi.png" />
+        <icon density="mdpi" src="res/icon/android/icon-48-mdpi.png" />
+        <icon density="hdpi" src="res/icon/android/icon-72-hdpi.png" />
+        <icon density="xhdpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <splash qualifier="port-ldpi" src="res/screen/android/screen-ldpi-portrait.png" />
+        <splash qualifier="port-mdpi" src="res/screen/android/screen-mdpi-portrait.png" />
+        <splash qualifier="port-hdpi" src="res/screen/android/screen-hdpi-portrait.png" />
+        <splash qualifier="port-xhdpi" src="res/screen/android/screen-xhdpi-portrait.png" />
+    </platform>
+    <platform name="ios">
+        <icon height="57" src="res/icon/ios/icon-57.png" width="57" />
+        <icon height="72" src="res/icon/ios/icon-72.png" width="72" />
+        <icon height="114" src="res/icon/ios/icon-57-2x.png" width="114" />
+        <icon height="144" src="res/icon/ios/icon-72-2x.png" width="144" />
+        <splash height="480" src="res/screen/ios/screen-iphone-portrait.png" width="320" />
+        <splash height="960" src="res/screen/ios/screen-iphone-portrait-2x.png" width="640" />
+        <splash height="1136" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" />
+        <splash height="1024" src="res/screen/ios/screen-ipad-portrait.png" width="768" />
+        <splash height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
+    </platform>
+    <gap:plugin name="nl.x-services.plugins.toast" source="plugins.cordova.io" />
     <engine name="ios" spec="~3.9.1" />
     <engine name="android" spec="~4.1.1" />
 </widget>
