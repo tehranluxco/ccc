@@ -6,6 +6,9 @@
     <content src="index.html" />
     <access origin="*" />
     <access origin="https://tehranlux.com"  subdomains="true"/>
+	
+	<preference name="phonegap-version" value="3.5.0" />
+	
 	<preference name="permissions" value="none"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	<!--<gap:splash src="assets/img/logo.svg" />-->
@@ -28,7 +31,6 @@
 	<icon gap:platform="webos" src="res/icon/webos/icon-64.png" />
 	<icon gap:platform="winphone" src="res/icon/windows-phone/icon-48.png" />
 	<icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173.png" />
-	
 	
 	<gap:splash src="splash.png" />
  </widget>
