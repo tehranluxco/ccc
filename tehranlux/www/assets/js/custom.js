@@ -1,22 +1,22 @@
 $( document ).on( "pageinit", ".page", function() {
     //Splash
-    $(function () {
-        setTimeout(hideSplash, 3000);
-    });
-    function hideSplash() {
-        var url = $('div.page.ui-page-active').attr('data-url');
-        if (url == 'splash'){
-            $.mobile.changePage("#login", "fade");
-            $('img.logo').animate({
-                opacity: 1, top: "15px"}, 1000, function () {
-                    $('form.login').animate({
-                    opacity: 1, top: "15px"}, 1000,function(){
-                        $("img.logo , form.login").css('opacity' , '1 !important');
-                    })
-                }
-            );
-        }
-    };
+    //$(function () {
+    //    setTimeout(hideSplash, 3000);
+    //});
+    //function hideSplash() {
+    //    var url = $('div.page.ui-page-active').attr('data-url');
+    //    if (url == 'splash'){
+    //        $.mobile.changePage("#login", "fade");
+    //        $('img.logo').animate({
+    //            opacity: 1, top: "15px"}, 1000, function () {
+    //                $('form.login').animate({
+    //                opacity: 1, top: "15px"}, 1000,function(){
+    //                    $("img.logo , form.login").css('opacity' , '1 !important');
+    //                })
+    //            }
+    //        );
+    //    }
+    //};
 
 
     $(function () {
